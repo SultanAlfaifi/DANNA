@@ -48,15 +48,14 @@ DANNA leverages advanced language models (**GPT-5-mini**) to generate dynamic, c
 
 ## 🌟 Highlights
 
-* One of the first Saudi Arabic AI-powered Alexa assistants<img width="1080" height="1080" alt="DANA copy" src="https://github.com/user-attachments/assets/1ef8b11f-680d-485b-87ef-f83a83f2af4b" />
-
+* One of the first Saudi Arabic AI-powered Alexa assistants
 * Designed for real-world usage, not just experimentation
 * Focused on usability, performance, and cultural relevance
 
 ---
 
 ## 📷
-![Uploading DANA copy.png…]()
+
 ![1749712407560](https://github.com/user-attachments/assets/8c172b1d-74d8-4a3b-af94-ce8427b6faf5)
 
 ---
